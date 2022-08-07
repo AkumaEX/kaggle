@@ -1,0 +1,9 @@
+.cache
+.conda
+.config
+.ipython
+.ipynb_checkpoints
+.jupyter
+.keras
+.local
+submission
